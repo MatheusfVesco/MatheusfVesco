@@ -5,11 +5,11 @@
 <div>
   
   <h4>Social Media:</h4>
-  <img alt="LinkedIn URL" src="https://img.shields.io/twitter/url?color=%230a66c2&label=LinkedIn&logo=linkedin&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmatheusfvesco%2F" width="101">
-  <img alt="Kaggle URL" src="https://img.shields.io/twitter/url?color=%2320bdfd&label=Kaggle&logo=Kaggle&logoColor=%2320bdfd&style=flat-square&url=https%3A%2F%2Fwww.kaggle.com%2Fmatheusfvesco" width="90">
-  <img alt="Send email" src="https://img.shields.io/badge/Email--%230a66c2?style=flat-square&logo=gmail&color=%23ea4335&url=mailto:matheusfvesco@gmail.com" width="84">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/matheusfvesco?color=%231d9bf0&label=Follow&logo=Twitter&logoColor=%231d9bf0&style=flat-square" width="95">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/matheusfvesco?color=%23171515&label=Followers&logo=github&style=flat-square&url=https%3A%2F%2Fwww.github.com%2Fmatheusfvesco" width="115">
+  <a href="https://www.linkedin.com/in/matheusfvesco"><img alt="LinkedIn URL" src="https://img.shields.io/twitter/url?color=%230a66c2&label=LinkedIn&logo=linkedin&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmatheusfvesco%2F" width="101"></a>
+  <a href="https://www.kaggle.com/matheusfvesco"><img alt="Kaggle URL" src="https://img.shields.io/twitter/url?color=%2320bdfd&label=Kaggle&logo=Kaggle&logoColor=%2320bdfd&style=flat-square&url=https%3A%2F%2Fwww.kaggle.com%2Fmatheusfvesco" width="90"></a>
+  <a href="mailto:matheusfvesco@gmail.com"><img alt="Send email" src="https://img.shields.io/badge/Email--%230a66c2?style=flat-square&logo=gmail&color=%23ea4335&url=mailto:matheusfvesco@gmail.com" width="84"></a>
+  <a href="https://twitter.com/intent/follow?screen_name=matheusfvesco"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/matheusfvesco?color=%231d9bf0&label=Follow&logo=Twitter&logoColor=%231d9bf0&style=flat-square" width="95"></a>
+  <a href="https://www.github.com/matheusfvesco"><img alt="GitHub followers" src="https://img.shields.io/github/followers/matheusfvesco?color=%23171515&label=Followers&logo=github&style=flat-square&url=https%3A%2F%2Fwww.github.com%2Fmatheusfvesco" width="115"></a>
 
 </div>
 
